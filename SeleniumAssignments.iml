@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/libs" />
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/testng-7.4.0 (1).jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/client-combined-3.141.59.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/libs/okio-1.14.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/libs/okhttp-3.11.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/libs/guava-25.0-jre.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/libs/commons-exec-1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/libs/byte-buddy-1.8.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/client-combined-3.141.59-sources.jar!/" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/java_faker/automaton-1.11-8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/java_faker/commons-lang3-3.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/java_faker/generex-1.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/java_faker/javafaker-1.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/Duotech/Selenium/Selenium jars/java_faker/snakeyaml-1.23-android.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
